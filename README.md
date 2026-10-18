@@ -1,7 +1,7 @@
-### Nice to meet you all. 👋
-
-<div align="center">
-    <!-- Summary cards -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyanProMax&theme=tokyonight"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RyanProMax&theme=tokyonight"/>
-</div>
+<p align="center">
+  <samp>
+    <a href="https://ryanpromax.github.io/zh/about">me</a> ·
+    <a href="https://ryanpromax.github.io/zh/blog">blog</a> ·
+    <a href="https://ryanpromax.github.io/zh/projects">projects</a>
+  </samp>
+</p>
